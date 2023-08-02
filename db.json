@@ -1,8 +1,8 @@
 {
   "users": [
     { "id": 1, "name": "tomida", "gender": "male", "belong": "LINKA ASSOCIATES INC." },
-    { "id": 2, "title": "nagaya", "gender": "male" "belong": "Triple-e Japan INC." },
-    { "id": 3, "title": "asano", "gender": "female" "belong": "Triple-e Japan INC." },
-    { "id": 3, "title": "tojima", "gender": "male" "belong": "Triple-e Japan INC." }
-  ]
+    { "id": 2, "title": "nagaya", "gender": "male", "belong": "Triple-e Japan INC." },
+    { "id": 3, "title": "asano", "gender": "female", "belong": "Triple-e Japan INC." },
+    { "id": 3, "title": "tojima", "gender": "male", "belong": "Triple-e Japan INC." },
+  ],
 }
