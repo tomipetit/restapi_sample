@@ -10,31 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-    "users": [
-        {
-            "id": 1,
-            "name": "tomida",
-            "gender": "male",
-            "belong": "LINKA ASSOCIATES INC."
-        },
-        {
-            "id": 2,
-            "name": "nagaya",
-            "gender": "male",
-            "belong": "Triple-e Japan INC."
-        },
-        {
-            "id": 3,
-            "name": "asano",
-            "gender": "female",
-            "belong": "Triple-e Japan INC."
-        },
-        {
-            "id": 4,
-            "name": "tojima",
-            "gender": "male",
-            "belong": "Triple-e Japan INC."
-        }
-    ]
+  }
 }
