@@ -8,19 +8,19 @@
         },
         {
             "id": 2,
-            "title": "nagaya",
+            "name": "nagaya",
             "gender": "male",
             "belong": "Triple-e Japan INC."
         },
         {
             "id": 3,
-            "title": "asano",
+            "name": "asano",
             "gender": "female",
             "belong": "Triple-e Japan INC."
         },
         {
             "id": 4,
-            "title": "tojima",
+            "name": "tojima",
             "gender": "male",
             "belong": "Triple-e Japan INC."
         }
